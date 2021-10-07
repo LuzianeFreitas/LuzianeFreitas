@@ -1,4 +1,4 @@
-# Olá! Eu sou a Luziane Freitas <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
+# Olá! Eu sou a Luzi <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
 
  <div>
   <a href="https://github.com/LuzianeFreitas">
